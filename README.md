@@ -1,4 +1,4 @@
-# Hello 👋 I'm Haider Ali
+# Hello I'm Haider Ali
 
 🚀 **Software Engineering Student | Full-Stack Developer | AI/ML Engineer | E-commerce Co-founder**  
 
@@ -33,43 +33,6 @@ I’m passionate about building **real-world software solutions** and exploring 
 
 **Others:**  
  `Shopify` · `Digital Marketing`  
-
----
-
-## 📌 Projects  
-
-### 🔹 POS & Inventory Management System  
-- **Tech:** C#, SQL Server  
-- **Highlights:** Managed showrooms, sales, inventory, and customer records. Applied **Object-Oriented Programming** concepts in a Windows Forms desktop app.  
-
-### 🔹 POS with Data Structures  
-- **Tech:** C++  
-- **Highlights:** Implemented POS features using **basic data structures** for efficient operations.  
-
-### 🔹 Web Scraping & Automation  
-- **Tech:** Python, BeautifulSoup, Selenium  
-- **Highlights:**  
-  - Wikipedia Scraper  
-  - NVIDIA GPU stock & price tracker  
-  - Amazon Price Alert → sends email when price drops to target  
-
-### 🔹 Spam Message Detector (AI + Flask)  
-- **Tech:** Flask, SQLAlchemy, Kaggle dataset  
-- **Highlights:**  
-  - Implemented **user authentication & routing**  
-  - Integrated AI model trained to classify spam messages  
-
-### 🔹 Blog Website  
-- **Frontend:** HTML, CSS, Bootstrap, JavaScript  
-- **Backend:** Flask, Flask-Login, Flask-WTF, SQLAlchemy, SQLite  
-- **Highlights:**  
-  - Create/Delete posts  
-  - User authentication  
-  - View profiles, comment, and like posts  
-
-### 🔹 E-commerce Jewelry Store (Shopify)  
-- **Role:** Co-founder  
-- **Highlights:** Designed Shopify store, managed marketing campaigns, and grew sales for a **women’s jewelry brand**.  
 
 ---
 
