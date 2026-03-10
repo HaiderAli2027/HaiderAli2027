@@ -1,6 +1,6 @@
 # Hello I'm Haider Ali
 
-🚀 **Software Engineering Student | Full-Stack Developer | AI/ML Engineer | E-commerce Co-founder**  
+🚀 **Python Backend Engineer | Django • DRF • Flask | GenAI & Agentic Development | OpenAI SDK**  
 
 ---
 
@@ -30,9 +30,6 @@ I’m passionate about building **real-world software solutions** and exploring 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-
-**Others:**  
- `Shopify` · `Digital Marketing`  
 
 ---
 
