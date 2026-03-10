@@ -1,15 +1,15 @@
 # Hello I'm Haider Ali
 
-🚀 **Python Backend Engineer | Django • DRF • Flask | GenAI & Agentic Development | OpenAI SDK**  
+**Python Backend Engineer | Django • DRF • Flask | GenAI & Agentic Development | OpenAI SDK**  
 
 ---
 
-## 💡 About Me  
+## About Me  
 I’m passionate about building **real-world software solutions** and exploring how technology can solve everyday problems. My journey spans across **desktop applications, full-stack web development, web scraping, AI/ML projects, and entrepreneurship**.  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -33,14 +33,14 @@ I’m passionate about building **real-world software solutions** and exploring 
 
 ---
 
-## 🌟 What I’m Exploring  
+## What I’m Exploring  
 - Advanced **Flask & Django projects**  
 - More applications of **AI/ML in real-world systems**  
 - Expanding skills in **full-stack web development**  
 
 ---
 
-## 📫 Let’s Connect!  
+## Let’s Connect!  
 🌐 [LinkedIn](https://www.linkedin.com/in/haider-ali-03ba7237a/) • 📧 haiderali223208@gmail.com  
 
 ---
