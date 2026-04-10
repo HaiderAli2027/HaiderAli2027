@@ -33,12 +33,6 @@ I’m passionate about building **real-world software solutions** and exploring 
 
 ---
 
-## What I’m Exploring  
-- Advanced **Flask & Django projects**  
-- More applications of **AI/ML in real-world systems**  
-- Expanding skills in **full-stack web development**  
-
----
 
 ## Let’s Connect!  
 🌐 [LinkedIn](https://www.linkedin.com/in/haider-ali-03ba7237a/) • 📧 haiderali223208@gmail.com  
