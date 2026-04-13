@@ -35,9 +35,3 @@ I’m passionate about building **real-world software solutions** and exploring 
 
 ## Let’s Connect!  
 🌐 [LinkedIn](https://www.linkedin.com/in/haider-ali-03ba7237a/) • 📧 haiderali223208@gmail.com  
-
----
-
-## 🙌 Support My Work
-
-- If you like my projects, consider giving them a ⭐ or sharing them with others!
